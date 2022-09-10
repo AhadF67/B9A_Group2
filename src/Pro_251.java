@@ -22,6 +22,7 @@ public class Pro_251 {
          System.out.println("Hello my name is lujein ");
         // TODO code application logic here
         System.out.println("Hello my name is nora ");
+        System.out.println("Hello my name is Amira ");
         
     }
     
