@@ -21,6 +21,8 @@ public class Pro_251 {
     public static void main(String[] args) {
          System.out.println("Hello my name is lujein ");
         // TODO code application logic here
+        System.out.println("Hello my name is lujein ");
+        
     }
     
 }
