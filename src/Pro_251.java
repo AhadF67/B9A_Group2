@@ -24,6 +24,7 @@ public class Pro_251 {
         System.out.println("Hello my name is nora ");
         System.out.println("Hello my name is Amira ");
         System.out.println("Hello my name is Ahad");
+        System.out.println("test");
         
     }
     
